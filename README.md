@@ -52,4 +52,4 @@ Jika Anda memiliki pertanyaan atau masukan, silakan hubungi [Azmi Riyadin] di [m
 
 Terima kasih telah menggunakan aplikasi ini! 🚀
 
-![Gambar Hasil Projek](webcrud\image\projek.jpg "screenshoot projek")
+![Gambar Hasil Projek](image/projek.jpg)
